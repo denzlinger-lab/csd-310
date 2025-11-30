@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/e01969c9-61a7-4761-b83d-77ac312c7c86/console.sql" value="e01969c9-61a7-4761-b83d-77ac312c7c86" />
+    <file url="file://$PROJECT_DIR$/module-8/movies_update_and_delete.py" value="e01969c9-61a7-4761-b83d-77ac312c7c86" />
+    <file url="file://$PROJECT_DIR$/module-8/scratchpad.py" value="e01969c9-61a7-4761-b83d-77ac312c7c86" />
+  </component>
+</project>
