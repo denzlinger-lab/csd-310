@@ -2,6 +2,7 @@
 <project version="4">
   <component name="DataSourcePerFileMappings">
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/5810d7cb-f562-488b-9536-3199e79e9e1b/console.sql" value="5810d7cb-f562-488b-9536-3199e79e9e1b" />
+    <file url="file://$PROJECT_DIR$/bacchus_main.py" value="5810d7cb-f562-488b-9536-3199e79e9e1b" />
     <file url="file://$PROJECT_DIR$/bacchus_winery.sql" value="5810d7cb-f562-488b-9536-3199e79e9e1b" />
   </component>
 </project>
